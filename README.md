@@ -26,10 +26,13 @@
 ![Mod17_D1.3.B_Imbalanced_Classification_Report_SMOTE.PNG](https://github.com/Tara-Lightner/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Mod17_D1.3.B_Imbalanced_Classification_Report_SMOTE.PNG)
 
 ### Undersampling: ClusterCentroids
+
  - An Accuracy Score for the Model
+ 
 ![Mod17_D1.1.C_Accuracy_Score_ClusterCentroids.PNG](https://github.com/Tara-Lightner/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Mod17_D1.1.C_Accuracy_Score_ClusterCentroids.PNG)
 
  - A Confusion Matrix
+ 
 ![Mod17_D1.2.C_Confusion_Matirx_ClusterCentroids.PNG](https://github.com/Tara-Lightner/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Mod17_D1.2.C_Confusion_Matirx_ClusterCentroids.PNG)
 
  - An Imbalanced Classification
@@ -136,7 +139,7 @@ low risk = 0.94
 average/total = 0.94
 
 In order of average/total recall the best results were as follows: 
-#### 1.)  Easy Ensemble AdaBoost Classifier average/total = 0.94
+#### 1.) Easy Ensemble AdaBoost Classifier average/total = 0.94
 #### 2.) Balanced Random Forest Classifier average/total = 0.87
 #### 3.) Oversampling SMOTE average/total = 0.69
 #### 4.) Oversampling RandomOverSampler average/total = 0.60
